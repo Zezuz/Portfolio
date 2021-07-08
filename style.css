@@ -1,0 +1,50 @@
+
+
+.pictureclass
+{
+    display: block;
+    margin-left: auto;
+        margin-right: auto;
+        width: 350px;
+        height: 350px;
+        margin-bottom: 50px;
+}
+
+.background
+{
+    background-color: black;
+}
+.background-p
+{
+    background: rgba(9, 247, 247, 0.493);
+}
+
+body
+{
+    color: white;
+}
+
+h1
+{
+    text-align: center;
+    color: white;
+}
+h2
+{
+    text-align: center;
+    color: white;
+}
+
+.card
+{
+    width: 50%;
+    padding: 5px;
+    margin: 5px;
+    
+    
+    background: black;
+    border-color: rgb(12, 238, 238);
+    
+    
+    
+}
